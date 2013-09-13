@@ -14,4 +14,6 @@ var queryKlp = new Klp();
 
 queryKlp.wrap(myPromise);
 
+fiddle example: http://jsfiddle.net/bertrandgressier/FPhS4/
+
 
